@@ -38,6 +38,6 @@ Content-Type: application/json
 
 {
     "videoId": "b3a142e0-ac99-4b4a-88fb-a4cdb7a23b96",
-    "template": "gere um titulo muito impolgante para essa transcrição: '''{transcription}''' ",
+    "prompt": "gere um titulo muito impolgante para essa transcrição: '''{transcription}''' ",
     "temperature": 0.1
 }
